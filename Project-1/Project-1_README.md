@@ -152,4 +152,3 @@ Contributions are welcome! If you would like to contribute to this project, plea
 6. Open a pull request
 
 Please make sure to update tests as appropriate.
-
