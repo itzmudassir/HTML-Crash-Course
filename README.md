@@ -19,7 +19,7 @@ Welcome to the Web Development Crash Course repository! This project is a work i
     - [Deployment](#deployment)
 5. [Resources](#resources)
 6. [Contributing](#contributing)
-7. [License](#license)
+
 
 ## Introduction
 
