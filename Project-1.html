@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- Meta information and title of the webpage -->
+        <meta charset="UTF-8" />
+        <title>CatPhotoApp</title>
+    </head>
+    <body>
+        <main>
+            <!-- Main heading of the application -->
+            <h1>CatPhotoApp</h1>
+            <section>
+                <!-- Section for displaying cat photos -->
+                <h2>Cat Photos</h2>
+                <!-- Link to more cat photos -->
+                <p>See more <a target="_blank" href="https://github.com/itzmudassir">cat photos</a> in our gallery.</p>
+                <!-- Displaying a single cat photo -->
+                <a href="https://freecatphotoapp.com"><img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
+            </section>
+            <section>
+                <!-- Section for cat-related lists -->
+                <h2>Cat Lists</h2>
+                <h3>Things cats love:</h3>
+                <!-- Unordered list of things cats love -->
+                <ul>
+                    <li>cat nip</li>
+                    <li>laser pointers</li>
+                    <li>lasagna</li>
+                </ul>
+                <!-- Image and caption of cats loving lasagna -->
+                <figure>
+                    <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate.">
+                    <figcaption>Cats <em>love</em> lasagna.</figcaption>  
+                </figure>
+                <h3>Top 3 things cats hate:</h3>
+                <!-- Ordered list of things cats hate -->
+                <ol>
+                    <li>flea treatment</li>
+                    <li>thunder</li>
+                    <li>other cats</li>
+                </ol>
+                <!-- Image and caption showing cats' dislike for other cats -->
+                <figure>
+                    <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg" alt="Five cats looking around a field.">
+                    <figcaption>Cats <strong>hate</strong> other cats.</figcaption>  
+                </figure>
+            </section>
+            <section>
+                <!-- Form section for submitting cat photos -->
+                <h2>Cat Form</h2>
+                <form action="https://freecatphotoapp.com/submit-cat-photo">
+                    <!-- Fieldset for choosing indoor or outdoor -->
+                    <fieldset>
+                        <legend>Is your cat an indoor or outdoor cat?</legend>
+                        <label><input id="indoor" type="radio" name="indoor-outdoor" value="indoor" checked> Indoor</label>
+                        <label><input id="outdoor" type="radio" name="indoor-outdoor" value="outdoor"> Outdoor</label>
+                    </fieldset>
+                    <!-- Fieldset for selecting cat's personality traits -->
+                    <fieldset>
+                        <legend>What's your cat's personality?</legend>
+                        <input id="loving" type="checkbox" name="personality" value="loving" checked> <label for="loving">Loving</label>
+                        <input id="lazy" type="checkbox" name="personality" value="lazy"> <label for="lazy">Lazy</label>
+                        <input id="energetic" type="checkbox" name="personality" value="energetic"> <label for="energetic">Energetic</label>
+                    </fieldset>
+                    <!-- Input for cat photo URL -->
+                    <input type="text" name="catphotourl" placeholder="cat photo URL" required>
+                    <!-- Submit button for the form -->
+                    <button type="submit">Submit</button>
+                </form>
+            </section>
+        </main>
+        <footer>
+            <!-- Footer content with copyright notice -->
+            <p>No Copyright - <a href="https://github.com/itzmudassir">Mudassir Nadeem</a></p>
+        </footer>
+    </body>
+</html>
