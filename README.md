@@ -70,7 +70,7 @@ This module covers the basics of CSS, which is used to style and layout web page
   - What is CSS?
   - Adding CSS to HTML
 
-- **Lesson 2: Styling Text and Layout** (coming soon)
+- **[Lesson 2: Styling Text and Layout](https://github.com/itzmudassir/WebDevelopment-Crash-Course/blob/main/Styling-Text-and-Layout)**
   - Text properties
   - Box model and layout properties
 
