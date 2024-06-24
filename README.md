@@ -74,7 +74,7 @@ This module covers the basics of CSS, which is used to style and layout web page
   - Text properties
   - Box model and layout properties
 
-- **Lesson 3: Flexbox and Grid** (partially covered in [Cafe Menu Project]([https://github.com/itzmudassir/WebDevelopment-Crash-Course/blob/main/Cafe-Menu.html](https://github.com/itzmudassir/WebDevelopment-Crash-Course/tree/main/Project-2)))
+- **Lesson 3: Flexbox and Grid** (partially covered in [Cafe Menu Project](https://github.com/itzmudassir/WebDevelopment-Crash-Course/blob/main/Project-2)
   - Introduction to Flexbox
   - Introduction to Grid
 
