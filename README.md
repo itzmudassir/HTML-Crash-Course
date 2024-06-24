@@ -46,7 +46,7 @@ To get started with this course, you will need:
 
 In this module, you will learn the fundamentals of HTML, the building block of web pages.
 
-- **[Lesson 1: Introduction to HTML](https://github.com/itzmudassir/WebDevelopment-Crash-Course/blob/main/Project-1.html)**
+- **[Lesson 1: Introduction to HTML](https://github.com/itzmudassir/WebDevelopment-Crash-Course/blob/main/Introduction-to-HTML)**
   - What is HTML?
   - Basic structure of an HTML document
 
