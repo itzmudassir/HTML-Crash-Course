@@ -17,8 +17,11 @@ Welcome to the Web Development Crash Course repository! This project is a work i
     - [Databases](#databases)
     - [Version Control](#version-control)
     - [Deployment](#deployment)
-5. [Resources](#resources)
-6. [Contributing](#contributing)
+5. [Projects](#projects)
+    - [Cat Photo App](#cat-photo-app)
+    - [Cafe Menu Project](#cafe-menu-project)
+6. [Resources](#resources)
+7. [Contributing](#contributing)
 
 
 ## Introduction
@@ -43,15 +46,15 @@ To get started with this course, you will need:
 
 In this module, you will learn the fundamentals of HTML, the building block of web pages.
 
-- **[Lesson 1: Introduction to HTML](.[/path-to-lesson-1](https://github.com/itzmudassir/WebDevelopment-Crash-Course/blob/main/Project-1.html))**
+- **[Lesson 1: Introduction to HTML](https://github.com/itzmudassir/WebDevelopment-Crash-Course/blob/main/Project-1.html)**
   - What is HTML?
   - Basic structure of an HTML document
 
-- **[Lesson 2: HTML Elements and Attributes]([./path-to-lesson-2](https://github.com/itzmudassir/WebDevelopment-Crash-Course/blob/main/Project-1.html))**
+- **[Lesson 2: HTML Elements and Attributes](https://github.com/itzmudassir/WebDevelopment-Crash-Course/blob/main/Project-1.html)**
   - Common HTML elements (headings, paragraphs, lists, links, images)
   - Using attributes
 
-- **[Lesson 3: Creating Forms and Tables]([./path-to-lesson-3](https://github.com/itzmudassir/WebDevelopment-Crash-Course/blob/main/Project-1.html))**
+- **[Lesson 3: Creating Forms and Tables](https://github.com/itzmudassir/WebDevelopment-Crash-Course/blob/main/Project-1.html)**
   - Form elements and attributes
   - Table elements and attributes
 
@@ -71,7 +74,7 @@ This module covers the basics of CSS, which is used to style and layout web page
   - Text properties
   - Box model and layout properties
 
-- **Lesson 3: Flexbox and Grid** (coming soon)
+- **Lesson 3: Flexbox and Grid** (partially covered in [Cafe Menu Project]([https://github.com/itzmudassir/WebDevelopment-Crash-Course/blob/main/Cafe-Menu.html](https://github.com/itzmudassir/WebDevelopment-Crash-Course/tree/main/Project-2)))
   - Introduction to Flexbox
   - Introduction to Grid
 
@@ -214,15 +217,26 @@ Deploy your web applications to make them accessible on the internet.
   - What is CI/CD?
   - Setting up CI/CD pipelines
 
+## Projects
+
+### Cat Photo App
+This project demonstrates the usage of HTML and CSS to create a simple cat photo app. It covers various lessons from both HTML and CSS modules.
+- **[Cat Photo App]([https://github.com/itzmudassir/WebDevelopment-Crash-Course/blob/main/Cafe-Menu.html](https://github.com/itzmudassir/WebDevelopment-Crash-Course/tree/main/Project-1))**
+
+### Cafe Menu Project
+
+This project demonstrates the usage of HTML and CSS to create a simple cafe menu. It covers various lessons from both HTML and CSS modules.
+
+- **[Cafe Menu Project]([https://github.com/itzmudassir/WebDevelopment-Crash-Course/blob/main/Cafe-Menu.html](https://github.com/itzmudassir/WebDevelopment-Crash-Course/tree/main/Project-2))**
+
 ## Resources
 
-Here are some additional resources to help you along the way:
+Here are some additional resources to help you learn web development:
 
-- [MDN Web Docs](https://developer.mozilla.org/)
-- [W3Schools](https://www.w3schools.com/)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
 - [freeCodeCamp](https://www.freecodecamp.org/)
-- [Codecademy](https://www.codecademy.com/)
-- [Frontend Mentor](https://www.frontendmentor.io/)
+- [W3Schools](https://www.w3schools.com/)
+- [CSS-Tricks](https://css-tricks.com/)
 
 ## Contributing
 
