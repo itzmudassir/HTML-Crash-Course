@@ -221,13 +221,13 @@ Deploy your web applications to make them accessible on the internet.
 
 ### Cat Photo App
 This project demonstrates the usage of HTML and CSS to create a simple cat photo app. It covers various lessons from both HTML and CSS modules.
-- **[Cat Photo App]((https://github.com/itzmudassir/WebDevelopment-Crash-Course/blob/main/Project-1.html))**
+- **[Cat Photo App](https://github.com/itzmudassir/WebDevelopment-Crash-Course/blob/main/Project-1)**
 
 ### Cafe Menu Project
 
 This project demonstrates the usage of HTML and CSS to create a simple cafe menu. It covers various lessons from both HTML and CSS modules.
 
-- **[Cafe Menu Project]([https://github.com/itzmudassir/WebDevelopment-Crash-Course/blob/main/Project-2])**
+- **[Cafe Menu Project](https://github.com/itzmudassir/WebDevelopment-Crash-Course/blob/main/Project-2)**
 
 ## Resources
 
