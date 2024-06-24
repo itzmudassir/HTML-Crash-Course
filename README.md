@@ -66,7 +66,7 @@ In this module, you will learn the fundamentals of HTML, the building block of w
 
 This module covers the basics of CSS, which is used to style and layout web pages.
 
-- **Lesson 1: Introduction to CSS** (coming soon)
+- **[Lesson 1: Introduction to CSS](https://github.com/itzmudassir/WebDevelopment-Crash-Course/blob/main/What-is-CSS)**
   - What is CSS?
   - Adding CSS to HTML
 
