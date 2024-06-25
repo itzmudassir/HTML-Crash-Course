@@ -54,7 +54,7 @@ In this module, you will learn the fundamentals of HTML, the building block of w
   - Common HTML elements (headings, paragraphs, lists, links, images)
   - Using attributes
 
-- **[Lesson 3: Creating Forms and Tables](https://github.com/itzmudassir/WebDevelopment-Crash-Course/blob/main/Project-1.html)**
+- **[Lesson 3: Creating Forms and Tables](https://github.com/itzmudassir/WebDevelopment-Crash-Course/blob/main/Creating-Forms-and-Tabels)**
   - Form elements and attributes
   - Table elements and attributes
 
