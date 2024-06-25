@@ -58,7 +58,7 @@ In this module, you will learn the fundamentals of HTML, the building block of w
   - Form elements and attributes
   - Table elements and attributes
 
-- **Lesson 4: Semantic HTML** (coming soon)
+- **[Lesson 4: Semantic HTML](https://github.com/itzmudassir/WebDevelopment-Crash-Course/blob/main/Semantic-HTML)**
   - Importance of semantic HTML
   - Common semantic elements
 
@@ -74,7 +74,7 @@ This module covers the basics of CSS, which is used to style and layout web page
   - Text properties
   - Box model and layout properties
 
-- **Lesson 3: Flexbox and Grid** (partially covered in [Cafe Menu Project](https://github.com/itzmudassir/WebDevelopment-Crash-Course/blob/main/Project-2)
+- **[Lesson 3: Flexbox and Grid](https://github.com/itzmudassir/WebDevelopment-Crash-Course/blob/main/Flexbox-and-Grid)**
   - Introduction to Flexbox
   - Introduction to Grid
 
