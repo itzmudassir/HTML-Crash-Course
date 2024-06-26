@@ -1,3 +1,5 @@
+Certainly! Here's the updated version of your README with the addition of the third project:
+
 # Web Development Crash Course
 
 Welcome to the Web Development Crash Course repository! This project is a work in progress, aimed at providing a comprehensive guide to web development from the basics to advanced topics.
@@ -20,9 +22,9 @@ Welcome to the Web Development Crash Course repository! This project is a work i
 5. [Projects](#projects)
     - [Cat Photo App](#cat-photo-app)
     - [Cafe Menu Project](#cafe-menu-project)
+    - [CSS Color Markers](#css-color-markers)
 6. [Resources](#resources)
 7. [Contributing](#contributing)
-
 
 ## Introduction
 
@@ -220,7 +222,9 @@ Deploy your web applications to make them accessible on the internet.
 ## Projects
 
 ### Cat Photo App
+
 This project demonstrates the usage of HTML and CSS to create a simple cat photo app. It covers various lessons from both HTML and CSS modules.
+
 - **[Cat Photo App](https://github.com/itzmudassir/WebDevelopment-Crash-Course/blob/main/Project-1)**
 
 ### Cafe Menu Project
@@ -228,6 +232,12 @@ This project demonstrates the usage of HTML and CSS to create a simple cat photo
 This project demonstrates the usage of HTML and CSS to create a simple cafe menu. It covers various lessons from both HTML and CSS modules.
 
 - **[Cafe Menu Project](https://github.com/itzmudassir/WebDevelopment-Crash-Course/blob/main/Project-2)**
+
+### CSS Color Markers
+
+This project showcases a simple webpage displaying colored marker illustrations using HTML and CSS. The project includes a header, a container with three markers, and a footer reference.
+
+- **[CSS Color Markers](https://github.com/itzmudassir/WebDevelopment-Crash-Course/blob/main/Project-3)**
 
 ## Resources
 
@@ -245,9 +255,10 @@ Contributions are welcome! If you would like to contribute to this project, plea
 1. Fork the repository
 2. Create a new branch (`git checkout -b feature-branch`)
 3. Make your changes
-4. Commit your changes (`git commit -m 'Add some feature'`)
+4. Commit your
+
+ changes (`git commit -m 'Add some feature'`)
 5. Push to the branch (`git push origin feature-branch`)
 6. Open a pull request
 
 Please make sure to update tests as appropriate.
-
