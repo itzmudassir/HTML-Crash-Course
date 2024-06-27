@@ -80,7 +80,7 @@ This module covers the basics of CSS, which is used to style and layout web page
   - Introduction to Flexbox
   - Introduction to Grid
 
-- **Lesson 4: Responsive Design** (coming soon)
+- **[Lesson 4: Responsive Design](https://github.com/itzmudassir/WebDevelopment-Crash-Course/blob/main/Responsive-Design)**
   - Media queries
   - Responsive design principles
 
