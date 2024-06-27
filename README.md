@@ -23,6 +23,7 @@ Welcome to the Web Development Crash Course repository! This project is a work i
     - [Cat Photo App](#cat-photo-app)
     - [Cafe Menu Project](#cafe-menu-project)
     - [CSS Color Markers](#css-color-markers)
+    - [Registration Form](#registration-form)
 6. [Resources](#resources)
 7. [Contributing](#contributing)
 
@@ -238,6 +239,11 @@ This project demonstrates the usage of HTML and CSS to create a simple cafe menu
 This project showcases a simple webpage displaying colored marker illustrations using HTML and CSS. The project includes a header, a container with three markers, and a footer reference.
 
 - **[CSS Color Markers](https://github.com/itzmudassir/WebDevelopment-Crash-Course/blob/main/Project-3)**
+### Registration Form
+
+This project demonstrates the creation of a registration form using HTML and CSS.
+
+- **[Registration Form](https://github.com/itzmudassir/WebDevelopment-Crash-Course/blob/main/Project-4)**
 
 ## Resources
 
