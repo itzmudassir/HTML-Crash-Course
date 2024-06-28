@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="styles.css" />
+
+    <title>Survey Form</title>
+  </head>
+  <body>
+    <h1 id="title">Survey Form</h1>
+    <p id="description">
+      Thank you for taking the time to help us improve the platform
+    </p>
+    <form id="survey-form">
+      <fieldset>
+        <label for="name" id="name-label">Name: <input id="name" type="text" placeholder="Enter your name" required></label>
+        <label for="email" id="email-label">Email: <input id="email" type="email" placeholder="Enter your email" required></label>
+        <label for="number" id="number-label">Age: <input id="number" type="number" placeholder="Age" required min="13" max="90"></label>
+      </fieldset>
+      <fieldset>
+        <legend>Would you recommend?</legend>
+        <label for="yes"><input class="inline" type="radio" id="yes" name="selection" checked>Yes</label>
+        <label for="no"><input class="inline" type="radio" id="no" name="selection" >No</label>
+        <label>What would you like to improve?</label>
+        <label for="front-end"><input class="inline" type="checkbox" id="front-end" checked name="skills">Front-End</label>
+        <label for="back-end"><input class="inline" type="checkbox" id="back-end" name="skills">Back-End</label>
+      </fieldset>
+      <fieldset>
+        <label for="referrer">How did you hear about us?
+          <select id="referrer" name="referrer">
+            <option value="">(select one)</option>
+            <option value="1">LinkedIn</option>
+            <option value="2">Githb</option>
+            <option value="3">Instagram</option>
+            <option value="4">Other</option>
+          </select>
+        </label>
+        <label for="bio">Provide a bio:
+          <textarea id="bio" name="bio" rows="3" cols="30" placeholder="I like coding on the beach..."></textarea>
+        </label>
+      </fieldset>
+      <input type="submit" id="submit">
+    </form>
+  </body>
+</html>
