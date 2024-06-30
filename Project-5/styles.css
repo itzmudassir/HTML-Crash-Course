@@ -55,6 +55,7 @@ input[type='submit']{
     color: #f4f4f4;
     border-color: white;
     min-width: 300px;
+    cursor: grab;
 
 }
 
